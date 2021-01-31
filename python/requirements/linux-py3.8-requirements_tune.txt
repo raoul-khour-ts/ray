@@ -419,7 +419,7 @@ opencv-python==4.5.1.48
     #   gym
 optuna==2.4.0
     # via -r requirements_tune.in
-packaging==20.8
+packaging==20.9
     # via
     #   bleach
     #   bokeh
